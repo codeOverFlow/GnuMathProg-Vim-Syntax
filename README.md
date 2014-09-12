@@ -1,0 +1,2 @@
+GnuMathProg-Vim-Syntax
+======================
