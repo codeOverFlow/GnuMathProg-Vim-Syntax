@@ -4,4 +4,5 @@ endif
 augroup filetypedetect
 	au! BufRead,BufNewFile *.mod	setfiletype mod
 	au! BufRead,BufNewFile *.dat	setfiletype dat
+	au! BufRead,BufNewFile *.lp	setfiletype lp
 augroup END
